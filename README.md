@@ -149,4 +149,3 @@ Feedstock Maintainers
 
 * [@agrossfield](https://github.com/agrossfield/)
 * [@xiki-tempula](https://github.com/xiki-tempula/)
-
